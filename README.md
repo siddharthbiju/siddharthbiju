@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Any projects :)**
 
-- 💬 Ask me about **ReactJS, HTML, CSS, JavaScript, OWASP, OWASP ZAP, Burp suite, Fortify SCA**
+- 💬 Ask me about **ReactJS, HTML, CSS, JavaScript, Swift, OWASP, OWASP ZAP, Burp suite, Fortify SCA**
 
 - 📫 How to reach me **siddharth.biju3@gmail.com**
 
